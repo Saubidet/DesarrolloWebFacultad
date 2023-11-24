@@ -3,6 +3,9 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .navbar {
@@ -62,7 +65,32 @@ section div {
     padding: 20px;
     margin-bottom: 20px;
 }
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
 
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card-info {
+  padding: 16px;
+}
+
+.card-info h2 {
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.card-info p {
+  color: #666;
+}
 form {
     display: grid;
 }
