@@ -9,4 +9,4 @@ Carrera Diseño Multimedial - Escuela Da Vinci.
 
 ### URL 
 
-La aplicación se puede probar en 
+La pagina web se puede ver en https://pikewin.netlify.app/
